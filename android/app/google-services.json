@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293166396652",
+    "project_id": "chatfeed-9ed0d",
+    "storage_bucket": "chatfeed-9ed0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293166396652:android:087f1071ff52fca41ae1c9",
+        "android_client_info": {
+          "package_name": "com.example.chatfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293166396652-f0s4fc4t4q0320kgcjp4i4nsnt7j2ta1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKv3elcHWA1e8lWuPRVG4dU7NtHlXlxcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293166396652-f0s4fc4t4q0320kgcjp4i4nsnt7j2ta1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
